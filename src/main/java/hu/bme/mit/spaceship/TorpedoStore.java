@@ -7,6 +7,8 @@ import java.util.Random;
 *
 * (Deliberately contains bugs.)
 */
+
+//N7HTWY
 public class TorpedoStore {
 
   // rate of failing to fire torpedos [0.0, 1.0]
