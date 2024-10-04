@@ -8,6 +8,7 @@ import java.util.Random;
 * (Deliberately contains bugs.)
 */
 
+//MMKBV8
 //N7HTWY
 public class TorpedoStore {
 
